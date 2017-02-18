@@ -1,2 +1,3 @@
 # SDC_2_Project_3_Lane_Keeping
-Implement a controller to keep a simulated vehicle in its lane. For an extra challenge, use computer vision techniques to identify the lane lines and estimate the cross-track error.
+* This project will start on March 2nd.  
+* This module is built with our partners at Uber Advanced Technologies Group. Uber is one of the fastest-moving companies in the autonomous vehicle space. They are already testing their self-driving cars in multiple locations in the US, and they’re excited to introduce students to the core control algorithms that autonomous vehicles use.   
